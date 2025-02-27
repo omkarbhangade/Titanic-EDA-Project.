@@ -5,7 +5,7 @@ Exploratory Data analysis of the Titanic disaster dataset
 This project is an Exploratory Data Analysis (EDA) on the Titanic dataset, aiming to analyze and understand the factors that influenced the survival of passengers aboard the RMS Titanic. The dataset contains demographic and passenger information, such as age, gender, class, and fare, as well as whether they survived the disaster or not. Through data analysis and visualization, the goal was to uncover insights regarding the correlation between various features and survival rates.
 
 ## Dataset used :
-- <a href="https://github.com/omkarbhangade/Titanic-EDA-Project./blob/main/Titanic.csv">Dataset
+- <a href="https://github.com/omkarbhangade/Titanic-EDA-Project./blob/main/Titanic.csv"> Titanic Dataset
 
 ## Requirements:
 - Python: The primary programming language used for data analysis.
