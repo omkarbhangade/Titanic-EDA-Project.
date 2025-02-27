@@ -20,7 +20,7 @@ This project is an Exploratory Data Analysis (EDA) on the Titanic dataset, aimin
 3. The features such as Age, Siblings Onboard and Parents onboard didn't have major influence on the survival probability
 4. A better way for filling the missing values for Age column is explained by extracting info from Name column
 
-Visualizations
+## Visualizations
 This project includes the following visualizations:
 - Bar charts showing survival rates by class, gender, and embarkation.
 - Histograms to visualize the distribution of age and fare.
